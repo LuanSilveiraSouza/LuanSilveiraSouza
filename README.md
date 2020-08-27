@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/luan-souza-6b07b1171/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-282A36?style=for-the-badge&logo=Linkedin&logoColor=white)" />
 </a>
-<a href="luansouzasilveira@gmail.com">
+<a href="mailto: luansouzasilveira@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/-Email-282A36?style=for-the-badge&logo=Gmail&logoColor=white)" />
 </a>
 <a href="https://twitter.com/pescosauro">

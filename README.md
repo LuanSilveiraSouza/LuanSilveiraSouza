@@ -37,6 +37,7 @@ Here you can check all the work and studies that I'm doing!
   <img alt="HTML" src="https://img.shields.io/badge/-MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-MongoDB-68B8D4?style=for-the-badge&logo=mongodb&logoColor=282A36&" />
 </p>
+
 ---
 ### :bar_chart: Some Stats
 

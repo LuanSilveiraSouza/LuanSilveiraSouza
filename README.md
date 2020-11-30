@@ -25,7 +25,7 @@ Here you can check all the work and studies that I'm doing!
 
 ---
 ### :hammer_and_wrench: I work mainly with...
-<p align="justify">
+<p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-282A36?style=for-the-badge&logo=html5&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-CSS-68B8D4?style=for-the-badge&logo=css3&logoColor=282A36&" />
   <img alt="HTML" src="https://img.shields.io/badge/-Javascript-282A36?style=for-the-badge&logo=javascript&logoColor=white&" />

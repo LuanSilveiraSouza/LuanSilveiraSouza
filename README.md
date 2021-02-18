@@ -1,5 +1,7 @@
 ## Hello World! Welcome to my Github :v:
 
+My name is Luan da Silveira de Souza. I'm 18 years old, programming since 2017. I found myself in technology world and day by day I'm more passionate about its power to solves real world problems! 
+Currently I'm finishing my High School integrated with a Computer Technician course in IFRS and working as Integration Engineer at LinkApi.
 Here you can check all the work and studies that I'm doing!
 
 ---

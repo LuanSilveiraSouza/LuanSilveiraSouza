@@ -22,7 +22,7 @@ Here you can check all the work and studies that I'm doing!
 * Golang
 * Design Patterns
 * WebSockets
-* Next.js
+* Docker
 
 ---
 ### :hammer_and_wrench: I work mainly with...

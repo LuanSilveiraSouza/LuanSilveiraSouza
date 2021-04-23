@@ -3,8 +3,9 @@
   Hello World! Welcome to my Github :v:
 </h1>
 
-<p>My name is Luan da Silveira de Souza. I'm 18 years old, programming since 2017. I found myself in technology world and day by day I'm more passionate about its power to solves real world problems!</p>
-<p>Currently I'm finishing my High School integrated with a Computer Technician course in IFRS and working as Integration Engineer at LinkApi.</p>
+<p>My name is Luan da Silveira de Souza. I'm 19 years old, programming since 2017. I found myself in technology world and day by day I'm more passionate about its power to solves real world problems</p>
+<p>Finished my High School integrated with a Computer Technician course in IFRS in 2021</p>
+<p>Working as Integration Engineer at LinkApi</p>
 <p>Here you can check all the work and studies that I'm doing!</p>
 
 ---
@@ -25,8 +26,7 @@
 ---
 ### :book: Currenty I'm learning...
 * Golang
-* Design Patterns
-* WebSockets
+* NestJS
 * Docker
 * Redis
 

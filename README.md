@@ -27,7 +27,6 @@
 ### :book: Currenty I'm studying...
 * Golang
 * NestJS
-* Docker
 * GRPC
 * Redis
 * Kafka
@@ -35,16 +34,17 @@
 ---
 ### :hammer_and_wrench: I work mainly with...
 <p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-252F44?style=for-the-badge&logo=html5&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-CSS-E73636?style=for-the-badge&logo=css3&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-Javascript-252F44?style=for-the-badge&logo=javascript&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-Typescript-E73636?style=for-the-badge&logo=typescript&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-NodeJS-252F44?style=for-the-badge&logo=node.js&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-React-E73636?style=for-the-badge&logo=react&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-React Native-252F44?style=for-the-badge&logo=react&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Go-E73636?style=for-the-badge&logo=go&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Java-252F44?style=for-the-badge&logo=java&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Kotlin-E73636?style=for-the-badge&logo=kotlin&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Spring-252F44?style=for-the-badge&logo=spring&logoColor=white&" />
   <img alt="HTML" src="https://img.shields.io/badge/-PostgreSQL-E73636?style=for-the-badge&logo=postgresql&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-MySQL-252F44?style=for-the-badge&logo=mysql&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-MongoDB-E73636?style=for-the-badge&logo=mongodb&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-MongoDB-252F44?style=for-the-badge&logo=mongodb&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Kafka-E73636?style=for-the-badge&logo=apachekafka&logoColor=white&" />
+  <img alt="HTML" src="https://img.shields.io/badge/-Docker-252F44?style=for-the-badge&logo=docker&logoColor=white&" />
 </p>
 
 ---

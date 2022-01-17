@@ -22,37 +22,3 @@
 <a href="https://medium.com/@luansouzasilveira">
 <img alt="Medium" src="https://img.shields.io/badge/-Medium @luansouzasilveira-000000?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
-
----
-### :book: Currenty I'm studying...
-* Golang
-* NestJS
-* GRPC
-* Redis
-* Kafka
-
----
-### :hammer_and_wrench: I work mainly with...
-<p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/-Javascript-252F44?style=for-the-badge&logo=javascript&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Typescript-E73636?style=for-the-badge&logo=typescript&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-NodeJS-252F44?style=for-the-badge&logo=node.js&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Go-E73636?style=for-the-badge&logo=go&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Java-252F44?style=for-the-badge&logo=java&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Kotlin-E73636?style=for-the-badge&logo=kotlin&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Spring-252F44?style=for-the-badge&logo=spring&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-PostgreSQL-E73636?style=for-the-badge&logo=postgresql&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-MongoDB-252F44?style=for-the-badge&logo=mongodb&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Kafka-E73636?style=for-the-badge&logo=apachekafka&logoColor=white&" />
-  <img alt="HTML" src="https://img.shields.io/badge/-Docker-252F44?style=for-the-badge&logo=docker&logoColor=white&" />
-</p>
-
----
-### :bar_chart: Github Stats
-
-<div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSilveiraSouza&title_color=F0F0EA&bg_color=252F44&text_color=F0F0EA&icon_color=E73636&langs_count=8&layout=compact"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanSilveiraSouza&show_icons=true&title_color=F0F0EA&bg_color=252F44&text_color=F0F0EA&icon_color=E73636&count_private=true&include_all_commits=true"/>
-</div>
-

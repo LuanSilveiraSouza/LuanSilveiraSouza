@@ -16,9 +16,6 @@
 <a href="mailto: luansouzasilveira@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/-Email luansouzasilveira@gmail.com-D93025?style=for-the-badge&logo=Gmail&logoColor=white&" />
 </a>
-<a href="https://twitter.com/pescosauro">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter @pescossauro-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&" />
-</a>
 <a href="https://medium.com/@luansouzasilveira">
 <img alt="Medium" src="https://img.shields.io/badge/-Medium @luansouzasilveira-000000?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
